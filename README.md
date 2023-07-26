@@ -2,8 +2,7 @@
 Analista de Sistema, desenvolvedor Delphi, Java, e sempre estudando.
 
 **MIgração de ERP**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-          
+
           
 
 <!--
