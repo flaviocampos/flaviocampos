@@ -1,7 +1,5 @@
-### Oi, meu nome é Flávio Campos
-Analista de Sistema, desenvolvedor Delphi, Python, Java, e sempre estudando.
-
-**MIgração de ERP**
+### Olá.
+Aprendendo, Aprendendo a aprender, desaprendendo para aprender.
 
           
 
