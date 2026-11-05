@@ -1,5 +1,5 @@
 ### Olá.
-Aprendendo, Aprendendo a aprender, desaprendendo para aprender.
+"Mais do que aprender, é preciso saber desaprender para evoluir."
 
           
 
